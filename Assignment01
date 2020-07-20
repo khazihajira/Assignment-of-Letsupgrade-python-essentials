@@ -1,0 +1,38 @@
+What is Python?
+Python is high level programming language designed to be easy to
+read and simple to implement. It is open source which means it is free to use Python is an interpreted, high-level, general-purpose
+programming language. Python is also dynamic object oriented programming languge that can be used for many kinds of software development and also used in Web Development, Artificial Intelligence, Big data, Scripting & Automation, Computer Graphics.
+Python is Created by Guido van Rossum in Netherlands and first released in 1991.
+
+Ways to Install python are as follows:
+1) Anaconda Navigator
+- Use www.anaconda.com
+2) Python IDLE
+- Use https://www.python.org/downloads/
+3) Pycharm
+- Use https://www.jetbrains.com/pycharm/download/
+
+A code environment is a standalone and self-contained environment to run Python or R code. Each code environment has its own set of packages.
+
+Types:
+1) Text editors
+2) Full IDE
+3) Notebook Environments
+
+The Best Python IDEs and Code Editors 
+
+PyCharm.
+
+Visual Studio Code.
+
+Sublime Text.
+
+Vim.
+
+Atom.
+
+Jupyter Notebook.
+
+Eclipse + PyDev + LiClipse.
+
+GNU Emacs
